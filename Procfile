@@ -1,0 +1,1 @@
+web: gunicorn fuelConsumption_app:app
